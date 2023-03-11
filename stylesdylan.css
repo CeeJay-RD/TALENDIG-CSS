@@ -1,0 +1,24 @@
+#main {
+    display: flex;
+    gap: 50px;
+    text-align: center;
+    padding-top: 20px;
+    background-color: lightgray;
+}
+
+.titulo1 {
+    margin-bottom: 10px;
+}
+
+.parrafo1 {
+    margin-bottom: 15px;
+}
+
+.titulo3 {
+    margin-bottom: 10px;
+}
+
+#animalpicture {
+    width: 400px;
+    height: auto;
+}
