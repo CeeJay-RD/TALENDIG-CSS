@@ -1,36 +1,44 @@
 #main {
     display: flex;
-    gap: 50px;
+    gap: 350px;
     padding-top: 20px;
     background-color: lightgray;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
+    padding-bottom: 500px;
+
 }
 
 .titulo1 {
-    margin-bottom: 10px;
+    font-size: 46px;
+    margin-bottom: 20px;
 }
 
 .parrafo1 {
-    margin-bottom: 15px;
+    font-size: 26px;
+    margin-bottom: 30px;
 }
 
 .titulo3 {
+    font-size: 32px;
     margin-bottom: 10px;
 }
 
 #animalpicture {
     width: 400px;
     height: auto;
+    margin-bottom: 20px;
 }
 
 li { 
+    font-size: 18px;
     margin-bottom: 5px;
     list-style: circle;
 }
 
 #contenidoprincipal {
     text-align: center;
+    max-width: 800px;
 }
 
 #side-bar {
@@ -44,6 +52,7 @@ li {
     background-color: rgb(181, 180, 180);
  }
 
- #headersidebar {
-    margin-left: -18%;
+#headersidebar {
+    font-size: 21px;
+    margin-left: -12%;
  }
