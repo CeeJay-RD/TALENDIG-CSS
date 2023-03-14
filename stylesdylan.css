@@ -62,3 +62,8 @@ li {
     font-size: 21px;
     margin-left: -12%;
  }
+
+#footer {
+    text-align: center;
+    background-color: #73bd88;
+}
